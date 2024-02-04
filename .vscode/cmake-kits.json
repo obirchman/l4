@@ -1,0 +1,6 @@
+[
+    {
+        "name": "GCC ARM",
+        "toolchainFile": "${workspaceRoot}/cubeide-gcc.cmake"
+    }
+]
