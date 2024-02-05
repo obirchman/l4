@@ -2,5 +2,12 @@
     "files.associations": {
         "main.h": "c",
         "segger_rtt.h": "c"
-    }
+    },
+    "C_Cpp.codeAnalysis.clangTidy.enabled": true,
+    "C_Cpp.codeAnalysis.clangTidy.checks.enabled": [
+        "*"
+    ],
+    "C_Cpp.codeAnalysis.clangTidy.checks.disabled": [],
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
 }
